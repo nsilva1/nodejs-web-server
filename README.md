@@ -1,5 +1,5 @@
 # nodejs-web-server
-Simple Web server written in nodejs
+Simple Web server written in nodejs. HTML templates are rendered using handlebars
 
 To run server, go to the directory of server.js and run the command in the command line: node server.js 
 
